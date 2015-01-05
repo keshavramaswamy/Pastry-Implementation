@@ -1,12 +1,12 @@
 Pastry-Implementation
 ======================
-The Pastry Algorithm was implemented in Scala using the actor model. 
+* The Pastry Algorithm was implemented in Scala using the actor model. 
 
-A P2P network where Network Join and Routing according to the Pastry Protocol was built.
+* A P2P network where Network Join and Routing according to the Pastry Protocol was built.
 
-The average number of hops required to deliver messages was measured.
+* The average number of hops required to deliver messages was measured.
 
-A Crash failure model for the same has been implemented.
+* A Crash failure model for the same has been implemented.
 
 Files
 ================
