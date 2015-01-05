@@ -1,4 +1,3 @@
-package PastryBonus
 
 import scala.collection.mutable.ArrayBuffer
 import scala.collection.mutable.ArrayBuffer
@@ -408,7 +407,7 @@ class mainNode extends Actor {
   }
 }
 
-object project3bonus extends App {
+object projectcrash extends App {
   val system = ActorSystem("node")
   var no_of_nodes=args(0).toInt
   var no_of_requests=args(1).toInt
